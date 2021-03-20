@@ -310,7 +310,7 @@ body {
 /*  Background Colors
 /*------------------------------------------*/
 
-.bg-white { background-color: #fff!important; }
+.bg-white { background-color:blanchedalmond!important; }
 .bg-dark { background-color: #282828!important; }
 .bg-lightgrey { background-color: #fbfbfb; }
 .bg-cornsilk { background-color: #fffcfb; }
@@ -1086,7 +1086,7 @@ ol.digit-list p {
 /*  Background Colors
 /*------------------------------------------*/
 
-.bg-color-01 { background-color: #fefdfc; }  
+.bg-color-01 { background-color: black }  
 .bg-color-02 { background-color: #f7f4f0; }  
 .bg-color-03 { background-color: #efa697; }  
 .bg-color-04 { background-color: #d8c2be; }  
